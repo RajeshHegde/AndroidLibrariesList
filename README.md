@@ -1,4 +1,4 @@
-# AndroidLibrariesList
+# Open Source Android Libraries List
 List of open source android libraries
 
 ##Utility Libraries
